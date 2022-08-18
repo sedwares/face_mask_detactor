@@ -1,4 +1,4 @@
-# face_mask_detactor
+# face_mask_detector
 
 A new Flutter application.
 
